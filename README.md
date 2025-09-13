@@ -1,8 +1,64 @@
-# \# 📘 U Camp – Material Adicional de Python y Ciencia de Datos
+# <p align="center">
+
+# &nbsp; <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="120" alt="Python Logo" />
+
+# </p>
 
 # 
 
-# Este repositorio reúne \*\*material complementario\*\* para los cursos de \*\*U Camp\*\*, con el fin de reforzar los aprendizajes en \*\*programación en Python\*\* y los fundamentos de la \*\*Ciencia de Datos\*\*.  
+# <h1 align="center">📘 U Camp – Material Adicional de Python y Ciencia de Datos</h1>
+
+# 
+
+# <p align="center">
+
+# &nbsp; Repositorio de apoyo para reforzar aprendizajes en <b>Python</b> y <b>Ciencia de Datos</b>.<br>
+
+# &nbsp; Incluye notebooks prácticas, ejemplos y material extra para complementar el curso oficial de <b>U Camp</b>.
+
+# </p>
+
+# 
+
+# <p align="center">
+
+# &nbsp; <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
+
+# &nbsp; <img src="https://img.shields.io/badge/Google-Colab-yellow?logo=googlecolab" />
+
+# &nbsp; <img src="https://img.shields.io/badge/Data%20Science-Notebook-orange" />
+
+# </p>
+
+# 
+
+# ---
+
+# 
+
+# \## 📑 Table of Contents
+
+# 1\. 👋 \[Introducción](#-introducción)  
+
+# 2\. 🎯 \[Objetivo](#-objetivo)  
+
+# 3\. 📂 \[Contenido](#-contenido)  
+
+# 4\. 🛠️ \[Requisitos](#-requisitos)  
+
+# 5\. 🚀 \[Uso de las notebooks](#-uso-de-las-notebooks)  
+
+# 6\. ✅ \[Nota final](#-nota-final)  
+
+# 
+
+# ---
+
+# 
+
+# \## 👋 Introducción
+
+# Este repositorio contiene \*\*material complementario\*\* diseñado para apoyar los cursos de \*\*U Camp\*\* en su recorrido por la programación con \*\*Python\*\* y los fundamentos de la \*\*Ciencia de Datos\*\*.  
 
 # 
 
@@ -12,9 +68,9 @@
 
 # \## 🎯 Objetivo
 
-# Brindar recursos adicionales que te permitan:  
+# Brindar recursos adicionales que permitan a los estudiantes:  
 
-# \- Afianzar los conceptos vistos en clase.  
+# \- Reforzar los conceptos vistos en clase.  
 
 # \- Practicar con notebooks interactivas en \*\*Google Colab\*\*.  
 
@@ -28,6 +84,10 @@
 
 # \## 📂 Contenido
 
+# Los materiales se encuentran en notebooks organizadas por tema:  
+
+# 
+
 # \- Fundamentos de Python  
 
 # \- Manipulación y análisis de datos  
@@ -38,17 +98,13 @@
 
 # 
 
-# Cada notebook incluye ejemplos prácticos y código para reforzar tu aprendizaje.
-
-# 
-
 # ---
 
 # 
 
 # \## 🛠️ Requisitos
 
-# Se recomienda tener nociones básicas de:  
+# Para aprovechar mejor este material, se recomienda tener nociones básicas de:  
 
 # \- Programación estructurada  
 
@@ -58,21 +114,17 @@
 
 # 
 
-# > 💡 Si no tienes experiencia previa, puedes apoyarte con recursos externos (blogs, tutoriales y videos) para complementar lo que veas aquí.  
-
-# 
-
 # ---
 
 # 
 
-# \## 🚀 Cómo usar las notebooks
+# \## 🚀 Uso de las notebooks
 
-# 1\. Haz clic en la notebook que quieras abrir.  
+# 1\. Haz clic en la notebook deseada.  
 
-# 2\. Ábrela directamente en \*\*Google Colab\*\*.  
+# 2\. Ábrela en \*\*Google Colab\*\*.  
 
-# 3\. Ejecuta y modifica el código a tu ritmo.  
+# 3\. Ejecuta y modifica el código para experimentar con los ejemplos.  
 
 # 
 
@@ -84,7 +136,11 @@
 
 # Este material es un \*\*apoyo extra\*\* para los cursos de U Camp.  
 
-# No sustituye el contenido oficial, sino que lo complementa para que tu aprendizaje sea más sólido y aplicado.  
+# No sustituye los contenidos oficiales, sino que los complementa, ayudándote a dar un paso más en tu aprendizaje.  
+
+# 
+
+# ---
 
 
 
