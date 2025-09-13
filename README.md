@@ -1,146 +1,74 @@
-# <p align="center">
+<div align="center">
+    <a href="https://ucamp.mx" target="_blank">
+      <img src="public/banner_ucamp.png" alt="Project Banner">
+    </a>
+  <h3 align="center">U Camp – Material Adicional de Python y Ciencia de Datos</h3>
+  <p align="center">
+    Recursos complementarios para reforzar lo aprendido en los cursos de U Camp.<br/>
+    Incluye notebooks interactivas, ejemplos y material extra para practicar.
+  </p>
+</div>
 
-# &nbsp; <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="120" alt="Python Logo" />
+---
 
-# </p>
+##  <br /> 📋 <a name="table">Table of Contents</a>
 
-# 
+- 👋 [Introducción](#introducción)
+- 🎯 [Objetivo](#objetivo)
+- 📂 [Contenido](#contenido)
+- 🛠️ [Requisitos](#requisitos)
+- 🚀 [Uso de las notebooks](#uso-de-las-notebooks)
+- ✅ [Nota final](#nota-final)
 
-# <h1 align="center">📘 U Camp – Material Adicional de Python y Ciencia de Datos</h1>
+---
 
-# 
+##  <br /> 👋 <a name="introducción">Introducción</a>
 
-# <p align="center">
+Este repositorio contiene **material adicional** diseñado para los cursos de **U Camp**, enfocado en **programación en Python** y conceptos iniciales de **Ciencia de Datos**.  
+El objetivo es que tengas un espacio de práctica y recursos que te permitan afianzar lo visto en clase.
 
-# &nbsp; Repositorio de apoyo para reforzar aprendizajes en <b>Python</b> y <b>Ciencia de Datos</b>.<br>
+---
 
-# &nbsp; Incluye notebooks prácticas, ejemplos y material extra para complementar el curso oficial de <b>U Camp</b>.
+##  <br /> 🎯 <a name="objetivo">Objetivo</a>
 
-# </p>
+Brindar recursos adicionales que permitan a los estudiantes:
+- Reforzar los conceptos del curso.  
+- Practicar con notebooks interactivas en **Google Colab**.  
+- Explorar herramientas básicas de análisis y modelado de datos.  
 
-# 
+---
 
-# <p align="center">
+##  <br /> 📂 <a name="contenido">Contenido</a>
 
-# &nbsp; <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
+- Fundamentos de Python  
+- Manipulación y análisis de datos  
+- Conceptos básicos de estadística aplicada  
+- Introducción al aprendizaje automático  
 
-# &nbsp; <img src="https://img.shields.io/badge/Google-Colab-yellow?logo=googlecolab" />
+Cada notebook incluye ejemplos prácticos y código para reforzar tu aprendizaje.
 
-# &nbsp; <img src="https://img.shields.io/badge/Data%20Science-Notebook-orange" />
+---
 
-# </p>
+##  <br /> 🛠️ <a name="requisitos">Requisitos</a>
 
-# 
+Conocimientos recomendados:
+- Programación estructurada  
+- Álgebra lineal  
+- Probabilidad y estadística  
 
-# ---
+> 💡 Si no tienes experiencia previa, puedes apoyarte con recursos adicionales (blogs, tutoriales y videos).
 
-# 
+---
 
-# \## 📑 Table of Contents
+##  <br /> 🚀 <a name="uso-de-las-notebooks">Uso de las notebooks</a>
 
-# 1\. 👋 \[Introducción](#-introducción)  
+1. Selecciona la notebook que quieras revisar.  
+2. Ábrela en **Google Colab** con el enlace correspondiente.  
+3. Ejecuta y modifica el código para practicar a tu ritmo.  
 
-# 2\. 🎯 \[Objetivo](#-objetivo)  
+---
 
-# 3\. 📂 \[Contenido](#-contenido)  
+##  <br /> ✅ <a name="nota-final">Nota final</a>
 
-# 4\. 🛠️ \[Requisitos](#-requisitos)  
-
-# 5\. 🚀 \[Uso de las notebooks](#-uso-de-las-notebooks)  
-
-# 6\. ✅ \[Nota final](#-nota-final)  
-
-# 
-
-# ---
-
-# 
-
-# \## 👋 Introducción
-
-# Este repositorio contiene \*\*material complementario\*\* diseñado para apoyar los cursos de \*\*U Camp\*\* en su recorrido por la programación con \*\*Python\*\* y los fundamentos de la \*\*Ciencia de Datos\*\*.  
-
-# 
-
-# ---
-
-# 
-
-# \## 🎯 Objetivo
-
-# Brindar recursos adicionales que permitan a los estudiantes:  
-
-# \- Reforzar los conceptos vistos en clase.  
-
-# \- Practicar con notebooks interactivas en \*\*Google Colab\*\*.  
-
-# \- Explorar herramientas básicas de análisis y modelado de datos.  
-
-# 
-
-# ---
-
-# 
-
-# \## 📂 Contenido
-
-# Los materiales se encuentran en notebooks organizadas por tema:  
-
-# 
-
-# \- Fundamentos de Python  
-
-# \- Manipulación y análisis de datos  
-
-# \- Conceptos básicos de estadística aplicada  
-
-# \- Introducción al aprendizaje automático  
-
-# 
-
-# ---
-
-# 
-
-# \## 🛠️ Requisitos
-
-# Para aprovechar mejor este material, se recomienda tener nociones básicas de:  
-
-# \- Programación estructurada  
-
-# \- Álgebra lineal  
-
-# \- Probabilidad y estadística  
-
-# 
-
-# ---
-
-# 
-
-# \## 🚀 Uso de las notebooks
-
-# 1\. Haz clic en la notebook deseada.  
-
-# 2\. Ábrela en \*\*Google Colab\*\*.  
-
-# 3\. Ejecuta y modifica el código para experimentar con los ejemplos.  
-
-# 
-
-# ---
-
-# 
-
-# \## ✅ Nota final
-
-# Este material es un \*\*apoyo extra\*\* para los cursos de U Camp.  
-
-# No sustituye los contenidos oficiales, sino que los complementa, ayudándote a dar un paso más en tu aprendizaje.  
-
-# 
-
-# ---
-
-
-
+Este material es un **apoyo complementario** para tu camino en U Camp.  
+No sustituye los contenidos oficiales, sino que los refuerza para que tu aprendizaje sea más sólido y aplicado.  
