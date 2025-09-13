@@ -1,12 +1,8 @@
-# \# 📚 Material Adicional – U Camp: Python y Ciencia de Datos  
+# \# 📘 U Camp – Material Adicional de Python y Ciencia de Datos
 
 # 
 
-# ¡Bienvenido! 🚀  
-
-# 
-
-# Este repositorio contiene \*\*material complementario\*\* diseñado para los cursos de \*\*U Camp\*\*, con el propósito de reforzar tus aprendizajes en \*\*programación en Python\*\* y los fundamentos de la \*\*Ciencia de Datos\*\*.  
+# Este repositorio reúne \*\*material complementario\*\* para los cursos de \*\*U Camp\*\*, con el fin de reforzar los aprendizajes en \*\*programación en Python\*\* y los fundamentos de la \*\*Ciencia de Datos\*\*.  
 
 # 
 
@@ -14,33 +10,15 @@
 
 # 
 
-# \## 🎯 Objetivo  
+# \## 🎯 Objetivo
 
 # Brindar recursos adicionales que te permitan:  
 
 # \- Afianzar los conceptos vistos en clase.  
 
-# \- Practicar con ejemplos prácticos mediante notebooks interactivas en \*\*Google Colab\*\*.  
+# \- Practicar con notebooks interactivas en \*\*Google Colab\*\*.  
 
-# \- Profundizar en herramientas clave que sirven como base para proyectos de análisis y modelado de datos.  
-
-# 
-
-# ---
-
-# 
-
-# \## 📂 Contenido  
-
-# Las notebooks incluidas en este repositorio abarcan temas como:  
-
-# \- 🔹 Fundamentos de Python  
-
-# \- 🔹 Manipulación y análisis de datos  
-
-# \- 🔹 Conceptos básicos de estadística aplicada  
-
-# \- 🔹 Introducción al aprendizaje automático  
+# \- Explorar herramientas básicas de análisis y modelado de datos.  
 
 # 
 
@@ -48,9 +26,29 @@
 
 # 
 
-# \## 🛠️ Requisitos  
+# \## 📂 Contenido
 
-# Para aprovechar mejor este material, es recomendable contar con nociones básicas de:  
+# \- Fundamentos de Python  
+
+# \- Manipulación y análisis de datos  
+
+# \- Conceptos básicos de estadística aplicada  
+
+# \- Introducción al aprendizaje automático  
+
+# 
+
+# Cada notebook incluye ejemplos prácticos y código para reforzar tu aprendizaje.
+
+# 
+
+# ---
+
+# 
+
+# \## 🛠️ Requisitos
+
+# Se recomienda tener nociones básicas de:  
 
 # \- Programación estructurada  
 
@@ -60,7 +58,7 @@
 
 # 
 
-# > 💡 Si estos temas son nuevos para ti, no te preocupes: la práctica constante y el uso de recursos adicionales como blogs, videos y documentación oficial te ayudarán a complementar tu aprendizaje.  
+# > 💡 Si no tienes experiencia previa, puedes apoyarte con recursos externos (blogs, tutoriales y videos) para complementar lo que veas aquí.  
 
 # 
 
@@ -68,13 +66,13 @@
 
 # 
 
-# \## 🚀 Uso de las notebooks  
+# \## 🚀 Cómo usar las notebooks
 
-# 1\. Haz clic en el enlace de cada notebook.  
+# 1\. Haz clic en la notebook que quieras abrir.  
 
 # 2\. Ábrela directamente en \*\*Google Colab\*\*.  
 
-# 3\. Ejecuta y modifica el código a tu ritmo para experimentar con los ejemplos.  
+# 3\. Ejecuta y modifica el código a tu ritmo.  
 
 # 
 
@@ -82,13 +80,11 @@
 
 # 
 
-# \## ✅ Nota final  
+# \## ✅ Nota final
 
-# Este material es un \*\*apoyo extra\*\* para tu camino en U Camp. No sustituye los contenidos oficiales, sino que los complementa, buscando que vayas un paso más allá en tu aprendizaje.  
+# Este material es un \*\*apoyo extra\*\* para los cursos de U Camp.  
 
-# 
-
-# ¡Disfruta el proceso y sigue practicando! 🙌  
+# No sustituye el contenido oficial, sino que lo complementa para que tu aprendizaje sea más sólido y aplicado.  
 
 
 
